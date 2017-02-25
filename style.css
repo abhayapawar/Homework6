@@ -1,0 +1,33 @@
+button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+    .image{
+      width:250px;
+      height:150px;
+    }
+    
+    .single-gif{
+      display:inline-block;
+    }
+    .single-gif,.gif-rating{
+      
+      position:relative;
+      top: -21px;
+      text-shadow: 0 0 8px #FFFFFF, 0 0 8px #FFFFFF, 0 0 8px #FFFFFF, 0 0 8px #FFFFFF;
+    }
+    .single-gif img{
+      display:block;
+    }
+    
+    body{
+      background-color: lightblue;
+    }
+    .container{
+      border:2px;
+      border-style:solid;
+      border-color: yellow;
+
+    }
